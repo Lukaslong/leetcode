@@ -1,1 +1,2 @@
-#My Ideas and Solutions for Leetcode with Python & C++
+My Ideas and Solutions for Leetcode with Python & C++
+==========
