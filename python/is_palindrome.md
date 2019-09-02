@@ -37,7 +37,7 @@ class Solution(object):
         """
         return True if str(x)==str(x)[::-1] else False
 ```
-##### 2.
+##### 2.直接计算反转的结果
 但是题目并不想让我们这么简单糊弄过去。如果不将整数转化为字符串呢？那就硬算啊：
 ```
 class Solution(object):
