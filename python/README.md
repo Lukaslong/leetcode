@@ -2,3 +2,4 @@
 |序号 |问题 |解析 |
 |----|----|----|
 |1|两数之和|[twoSum.md](https://github.com/Lukaslong/leetcode/blob/master/python/twoSum.md)|
+|7|整数反转|[integerReverse.md](https://github.com/Lukaslong/leetcode/blob/master/python/integerReverse.md)|
