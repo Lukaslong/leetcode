@@ -7,3 +7,5 @@
 |136|只出现一次的数字|[singleNumber.md](https://github.com/Lukaslong/leetcode/blob/master/python/singleNumber.md)|
 |141|环形链表|[hasCycle.md](https://github.com/Lukaslong/leetcode/blob/master/python/hasCycle.md)|
 |160|相交链表|[getIntersectionNode.md](https://github.com/Lukaslong/leetcode/blob/master/python/getIntersectionNode.md)|
+|167|两数之和II|[twoSum2.md](https://github.com/Lukaslong/leetcode/blob/master/python/twoSum2.md)
+|168|Excel表列名称|[convertToTitle.md](https://github.com/Lukaslong/leetcode/blob/master/python/convertToTitle.md)|
